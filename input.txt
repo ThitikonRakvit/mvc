@@ -1,0 +1,9 @@
+//declare abc
+//declare def
+//abc = 1
+//def = abc + abc
+
+declare abc
+declare def
+abc = 1
+def = abc + abc
